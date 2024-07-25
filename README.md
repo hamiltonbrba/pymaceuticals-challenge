@@ -12,7 +12,7 @@ This project involves analyzing the effectiveness of various drug regimens in re
 - **Capomulin and Ramicane Efficacy**: Capomulin had a mean tumor volume of 40.68 mm³ and Ramicane had a mean tumor volume of 40.22 mm³, both significantly lower than other treatments.
 - **Median Tumor Volumes**: The median tumor volumes for Capomulin and Ramicane were 38.13 mm³ and 36.56 mm³, respectively.
 - **Gender Distribution**: The study included an even distribution of male (49.6%) and female (50.4%) mice, ensuring robust and unbiased findings.
-- **Correlation**: A moderate positive correlation (r = 0.53) was observed between mouse weight and average tumor volume in the Capomulin regimen.
+- **Correlation**: A strong positive correlation (r = 0.84) was observed between mouse weight and average tumor volume in the Capomulin regimen.
 
 ## Analysis
 The analysis includes:
